@@ -1,0 +1,3 @@
+[submodule "customerpath.herokuapp.com"]
+	path = customerpath.herokuapp.com
+	url = git@heroku.com:customerpath.git
